@@ -1,0 +1,9 @@
+[versions]
+protobuf-v3 = "3.25.3"
+protobuf-v4 = "4.27.2"
+
+[libraries]
+# none
+
+[plugins]
+protobuf = { id = "com.google.protobuf", version = "0.9.4" }
